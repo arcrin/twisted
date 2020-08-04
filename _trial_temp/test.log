@@ -1,4 +1,0 @@
-2020-08-02 22:17:54-0700 [-] Log opened.
-2020-08-02 22:17:54-0700 [-] --> twisted_ping_pong.PingPongProtocolTests.test_byteWrittenForByte <--
-2020-08-02 22:17:54-0700 [-] --> twisted_ping_pong.PingPongProtocolTests.test_firstByteWritten <--
-2020-08-02 22:17:54-0700 [-] --> twisted_ping_pong.PingPongProtocolTests.test_receivingMaximumLosesConnection <--
